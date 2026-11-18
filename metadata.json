@@ -1,0 +1,6 @@
+{
+  "name": "Varnika",
+  "description": "Interactive E-stories platform for reading, organizing, collaborating with real-time versioning and author chat, offline caching, TTS accessibility, and reading analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
